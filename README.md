@@ -1,8 +1,4 @@
-# Shoshana Bernstein
 ![Banner](https://github.com/shoshanabernstein/shoshanabernstein/blob/main/Banner.png)
-
-### I am a software developer with experience in C#, Python, SQL/Access, and low-level programming (Assembly/MIPS).  
-### I focus on writing clean, maintainable code and building practical solutions to real-world problems.
 
 ## Languages
 - **C#**                
